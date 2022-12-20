@@ -1,2 +1,22 @@
+.img{
+    width: 200px;
+    height: 300px;
+    
+}
+.name{
+    color: orange;
+    background-color: grey;
+    padding: 10px;
+    margin: 5px;
+    
+}
+#ol{
+    color: royalblue
+    font-weight: 100px;
+}
+#ul{
+    color: skyblue;
+    font-weight: 100px;
+}
 
 /* Your CSS Code here. */
